@@ -1,0 +1,3 @@
+domain: 'files.example.com'
+path: '/files'
+port: 80
